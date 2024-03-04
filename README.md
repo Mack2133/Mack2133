@@ -125,8 +125,8 @@ Apart from coding, I am passionate about continuous learning and exploring new t
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Mack2133/The-Food-Queue-Management-System" title="The-Food-Queue-Management-System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=The-Food-Queue-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Mack2133/Taxi_Service_Website" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Taxi_Service_Website&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Mack2133/Object-Oriented-Programming-Coursework/tree/master" title="Shopping Cart Management System with GUI (Java Swing)"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Object-Oriented-Programming-Coursework&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Mack2133/Taxi_Service_Website" title="Taxi Service React Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Taxi_Service_Website&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
