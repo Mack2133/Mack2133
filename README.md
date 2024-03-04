@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayyoob Ajward</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
-<div></div>
+<div align="center"><img src="https://github.com/Mack2133/Mack2133/blob/main/1695517753083.png"></img></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mack2133&label=Profile%20views&color=0e75b6&style=flat" alt="mack2133" /> </p>
 
 <h3 align="left">Connect with me:</h3>
