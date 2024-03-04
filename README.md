@@ -101,11 +101,9 @@ Apart from coding, I am passionate about continuous learning and exploring new t
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mack2133&show_icons=true&locale=en&layout=compact" alt="mack2133" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mack2133&show_icons=true&locale=en" alt="mack2133" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mack2133&" alt="mack2133" /></p>
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=mack2133&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mack2133&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=mack2133&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mack2133&limit=5&theme=flat&combine_all_yearly_contributions=true)
