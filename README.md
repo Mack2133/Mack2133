@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ayyoob Ajward</h1>
+<div align="center">
+    <h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Ayyoob+Ajward!;&center=true&size=30">
+  </a>
+    </h1>
+</div>
+
+
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <div align="center"><img src="https://github.com/Mack2133/Mack2133/blob/main/full%20stack%20developer-01.png"></img></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mack2133&label=Profile%20views&color=0e75b6&style=flat" alt="mack2133" /> </p>
@@ -106,5 +114,24 @@ Apart from coding, I am passionate about continuous learning and exploring new t
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=mack2133&theme=github_dark&show_icons=true&hide_border=true&layout=compact' />
 
 
-![snake animation](https://github.com/Mack2133/Mack2133/blob/output/github-contribution-grid-snake2.svg)
+![](https://github.com/Mack2133/Mack2133/blob/output/github-contribution-grid-snake2.svg)
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Mack2133/Student-Grading-System" title="Student-Grading-System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Student-Grading-System&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/Mack2133/Student-Grading-System" title="Student-Grading-System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Student-Grading-System&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Mack2133/Object-Oriented-Programming-Coursework" title="Object-Oriented-Programming-Coursework"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Object-Oriented-Programming-Coursework&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Mack2133/Taxi_Service_Website" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Taxi_Service_Website&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/Mack2133?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
