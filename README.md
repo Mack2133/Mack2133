@@ -24,3 +24,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mack2133&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ![snake animation](https://github.com/Mack2133/Mack2133/blob/output/github-contribution-grid-snake2.svg)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mack2133/langs)](https://githubtrends.io)
