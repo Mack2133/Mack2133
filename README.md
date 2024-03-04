@@ -3,6 +3,19 @@
 <div align="center"><img src="https://github.com/Mack2133/Mack2133/blob/main/full%20stack%20developer-01.png"></img></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mack2133&label=Profile%20views&color=0e75b6&style=flat" alt="mack2133" /> </p>
 
+### About Me
+👋 Hi, I'm Ayyoob Ajward, a passionate Full Stack developer from Sri Lanka. I have a strong background in both front-end and back-end development, with expertise in a variety of programming languages and tools. I'm dedicated to creating efficient, scalable, and user-friendly web applications that meet the needs of clients and users alike.
+
+### What I Do
+
+- **Full Stack Development:** I specialize in building web applications from start to finish, utilizing a wide range of technologies including JavaScript, TypeScript, React.js, Node.js, Express.js, and more.
+- **Mobile App Development:** I am experienced in developing cross-platform mobile applications using Flutter and Dart, providing seamless experiences across different devices.
+
+### My Interests
+
+Apart from coding, I am passionate about continuous learning and exploring new technologies. When I'm not coding, you can find me delving into world geopolitics, exploring nature or enjoying a good cup of coffee.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayyoob-ajward/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayyoob-ajward/" height="30" width="40" /></a>
@@ -11,7 +24,6 @@
 <a href="https://www.behance.net/https://www.behance.net/ayyoobajward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ayyoobajward" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color: white; padding: 10px;">
     <p align="left">
