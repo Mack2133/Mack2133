@@ -101,11 +101,10 @@ Apart from coding, I am passionate about continuous learning and exploring new t
 
 <br>
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=mack2133&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mack2133&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=mack2133&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=mack2133&theme=github_dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mack2133&theme=github_dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=mack2133&theme=github_dark&show_icons=true&hide_border=true&layout=compact' />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mack2133&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ![snake animation](https://github.com/Mack2133/Mack2133/blob/output/github-contribution-grid-snake2.svg)
+
