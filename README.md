@@ -19,6 +19,9 @@
 - **Full Stack Development:** I specialize in building web applications from start to finish, utilizing a wide range of technologies including JavaScript, TypeScript, React.js, Node.js, Express.js, and more.
 - **Mobile App Development:** I am experienced in developing cross-platform mobile applications using Flutter and Dart, providing seamless experiences across different devices.
 
+### Currently working on:
+- Developing a Mental Health Chatbot and Therapy Recommendation Mobile App
+
 ### My Interests
 
 Apart from coding, I am passionate about continuous learning and exploring new technologies. When I'm not coding, you can find me delving into world geopolitics, exploring nature or enjoying a good cup of coffee.
