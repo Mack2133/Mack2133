@@ -14,18 +14,25 @@
 ### About Me
 👋 Hi, I'm Ayyoob Ajward, a passionate Full Stack developer from Sri Lanka. I have a strong background in both front-end and back-end development, with expertise in a variety of programming languages and tools. I'm dedicated to creating efficient, scalable, and user-friendly web applications that meet the needs of clients and users alike.
 
+<hr>
+
 ### What I Do
 
 - **Full Stack Development:** I specialize in building web applications from start to finish, utilizing a wide range of technologies including JavaScript, TypeScript, React.js, Node.js, Express.js, and more.
 - **Mobile App Development:** I am experienced in developing cross-platform mobile applications using Flutter and Dart, providing seamless experiences across different devices.
 
+<hr>
+
 ### Currently working on:
 - Developing a Mental Health Chatbot and Therapy Recommendation Mobile App
+
+<hr>
 
 ### My Interests
 
 Apart from coding, I am passionate about continuous learning and exploring new technologies. When I'm not coding, you can find me delving into world geopolitics, exploring nature or enjoying a good cup of coffee.
 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
