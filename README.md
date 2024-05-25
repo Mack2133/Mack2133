@@ -24,7 +24,9 @@
 <hr>
 
 ### Currently working on:
-- Developing a Mental Health Chatbot and Therapy Recommendation Mobile App
+- Developing an Learning Platform using Next.js with TypeScript, PostgreSQL, Prisma, Tailwind CSS, Shadcn/UI,and NextAuth.js, with course creation and course enrollment functionalities
+
+![image](https://github.com/Mack2133/Mack2133/assets/126791134/591b638f-5a40-4ba9-a7a2-930eb8f70431)
 
 <hr>
 
