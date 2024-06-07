@@ -18,13 +18,13 @@
 
 ### What I Do
 
-- **Full Stack Development:** I specialize in building web applications from start to finish, utilizing a wide range of technologies including JavaScript, TypeScript, React.js, Node.js, Express.js, and more.
+- **Full Stack Development:** I specialize in building web applications from start to finish, utilizing a wide range of technologies including JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and more.
 - **Mobile App Development:** I am experienced in developing cross-platform mobile applications using Flutter and Dart, providing seamless experiences across different devices.
 
 <hr>
 
 ### Currently working on:
-- Developing an Learning Platform using Next.js with TypeScript, PostgreSQL, Prisma, Tailwind CSS, Shadcn/UI,and NextAuth.js, with course creation and course enrollment functionalities
+- Developing an Learning Platform using Next.js with TypeScript, Sanity , Tailwind CSS, Shadcn/UI,and NextAuth.js, with course creation and course enrollment functionalities
 
 <hr>
 
