@@ -127,21 +127,5 @@ Apart from coding, I am passionate about continuous learning and exploring new t
 ![](https://github.com/Mack2133/Mack2133/blob/output/github-contribution-grid-snake2.svg)
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Mack2133/Real-Estate-React-Website" title="Real-Estate-React-Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Real-Estate-React-Website&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="left" href="https://github.com/Mack2133/Student-Grading-System" title="Student-Grading-System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Student-Grading-System&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Mack2133/Object-Oriented-Programming-Coursework/tree/master" title="Shopping Cart Management System with GUI (Java Swing)"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Object-Oriented-Programming-Coursework&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Mack2133/Taxi_Service_Website" title="Taxi Service React Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mack2133&repo=Taxi_Service_Website&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
 
-<br><br><br><br><br><br>
-
-<h4 align="center">
-  <a href="https://github.com/Mack2133?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
