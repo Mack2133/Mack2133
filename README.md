@@ -23,11 +23,6 @@
 
 <hr>
 
-### Currently working on:
-- Developing an Learning Platform using Next.js with TypeScript, Sanity , Tailwind CSS, Shadcn/UI,and NextAuth.js, with course creation and course enrollment functionalities
-
-<hr>
-
 ### My Interests
 
 Apart from coding, I am passionate about continuous learning and exploring new technologies. When I'm not coding, you can find me delving into world geopolitics, exploring nature or enjoying a good cup of coffee.
